@@ -1,0 +1,25 @@
+.container  {
+  background-color: #1e3250;;
+  height:100%;
+  padding: 2rem;
+  color:white
+}
+
+.error-message {
+  color:red;
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  margin:2rem;
+}
+svg {
+  font-size: 3rem;
+  margin-right: 0.5rem;
+}
+
+input {
+margin: 0 0 0.4rem !important;
+padding: 0.2rem;
+border-radius: 4px !important;
+outline: 0;
+}
